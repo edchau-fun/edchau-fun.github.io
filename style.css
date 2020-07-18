@@ -1,0 +1,16 @@
+body {
+  background-color: #20201f;
+}
+
+h1 {
+  color: white;
+}
+
+#title {
+  position: relative;
+  color: #fff;
+  font-size: 45px;
+  margin-top: 80px;
+  z-index: 1;
+  text-align: center;
+}
